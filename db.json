@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "metro": [
+    {
+      "id": "26a89ce0-2ff8-4799-8201-7a561217d451",
+      "nombre": "Ruta55",
+      "sector": "Sur-Norte",
+      "salida": "Quitumbe",
+      "llegada": "Labrador",
+      "maquinista": "Andrew",
+      "detalles": "nuevaruta"
+    },
+    {
+      "id": "f64f862e-c5ee-4dec-9558-35ca7b0e8d5b",
+      "nombre": "Ruta88",
+      "sector": "Sur-Norte",
+      "salida": "Quitumbe",
+      "llegada": "Labrador",
+      "maquinista": "Mateo",
+      "detalles": "a"
+    }
+  ]
+}
